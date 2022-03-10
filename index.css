@@ -1,0 +1,97 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+
+body{
+    width: 1300px;
+    height: 100vh;
+    box-sizing: border-box;
+}
+
+.contact{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.contact no{
+    color: rgb(83, 18, 18);
+}
+.contact email{
+    color: rgb(83, 18, 18);
+    margin-left: 30px;
+}
+
+.head1{
+    width: 1300px;
+    height: 80px;
+    background-color: brown;
+
+
+}
+.nav{
+    display: flex;
+    justify-content: center;
+}
+ul{
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    margin-top: 15px;
+    padding-left: 100px;
+}
+.word1{
+    display: flex;
+    justify-content: center;
+
+}
+li{
+    list-style: none;
+}
+
+a{
+    font-size: 16px;
+    padding-left: 40px;
+    margin-top: 0px;
+    text-decoration: none;
+    color: white;
+
+}
+.buy{
+    padding-left: 120px;
+}
+.words{
+    margin-top: 100px;
+    padding-right: 0px;
+}
+
+.images{
+    margin-top: 10px;
+    margin-left: 0px;
+    height: 200px;
+    padding-left: 800px;
+}
+.flower{
+    font-weight: lighter;
+    margin-bottom: 20px;
+    color: brown;
+    padding-right: 100px;
+
+}
+.lovely{
+    font-size: 40px;
+    margin-bottom: 20px;
+    color: brown;
+    font-weight: lighter;
+}
+.shopnow{
+    background-color: brown;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+
+}
